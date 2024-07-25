@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpoke_app_docs=self.webpackChunkpoke_app_docs||[]).push([[1903],{1912:p=>{p.exports=JSON.parse('{"blogBasePath":"/PokeAppDocs/blog","blogTitle":"Blog"}')}}]);
